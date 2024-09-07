@@ -1,0 +1,123 @@
+    1  help cd / man cd
+    2  man ls
+    3  man ls
+    4  ls
+    5  man
+    6  man cd
+    7  man cd
+    8  cd lesson32
+    9  cd Lesson32
+   10  help cd
+   11  ls
+   12  help ls
+   13  man ls
+   14  ls
+   15  man ls
+   16  help ls
+   17  ls
+   18  ls
+   19  cd Desktop
+   20  cd Lesson32
+   21  [200~-c && rm ~/.bash_history~
+   22  c && rm ~/.bash_history 
+   23  c && rm ~/.bash_history
+   24  pwd
+   25  c && rm ~/.bash_history
+   26  pwd
+   27  mkdir TestF1
+   28  touch File1.txt
+   29  vim File1.txt
+   30  vim File1.txt
+   31  touch file2.txt
+   32  nano file2.txt
+   33  -c && rm ~/.bash_history
+   34  cd HW_10
+   35  git config --global user.name "Artem Revin"
+   36  git config --global user.email revinidze@gmail.com
+   37  [200~https://github.com/ArtReCa/HW_10.git~
+   38  git config --global user.name "Artem Revin"
+   39  git config --global user.email revinidze@gmail.com
+   40  [200~https://github.com/ArtReCa/HW_10.git~
+   41  clear
+   42  git config --global user.name "ArtReCa
+   43  Artem Revin"
+   44  git config --global user.email revinidze@gmail.com
+   45  https://github.com/ArtReCa/HW_10.git
+   46  git clone [200~https://github.com/ArtReCa/HW_10.git~
+   47  cd HW_10
+   48  git config --global user.name "Artem Revin"
+   49  git config --global user.email revinidze@gmail.com
+   50  git clone https://github.com/ArtReCa/HW_10.git
+   51  cd HW_10
+   52  cd Desktop
+   53  ls
+   54  Desktop/HW_10D
+   55  ls
+   56  man
+   57  cd HW_10D
+   58  cd HW_10
+   59  touch text_ignore.txt
+   60  git status
+   61  git add
+   62  git add .
+   63  echo "text_ignore.txt" >> .gitignore
+   64  git status
+   65  git add .
+   66  git commit -m
+   67  git commit
+   68  cd HW_10
+   69  cd HW_10D
+   70  cd HW_10
+   71  touch text_ignore.txt
+   72  echo "text_ignore.txt" >> .gitignore
+   73  git status
+   74  git add
+   75  git add .
+   76  git status 
+   77  cd HW_10D
+   78  cd HW_10
+   79  touch text_ignore.txt
+   80  echo "text_ignore.txt" >> .gitignore
+   81  git status
+   82  git add text_ignore.txt
+   83  git status
+   84  git commit -m "text_ignore.txt added"
+   85  touch main_test.txt
+   86  git add "main_test.txt"
+   87  git commit -m "main_test.txt added"
+   88  git checkout -b develop
+   89  touch develop_test.txt
+   90  git add .
+   91  git commit -m "develop_test.txt added"
+   92  echo "Changes in develop_test.txt" >> develop_test.txt
+   93  git status
+   94  git add "develop_test.txt"
+   95  echo "Changes in develop_test.txt" >> develop_test.txt
+   96  git status
+   97  git checkout main
+   98  git checkout master
+   99  git checkout main
+  100  git commit
+  101  git clone https://github.com/ArtReCa/HW_10.git
+  102  cd HW_10
+  103  touch text_ignore.txt
+  104  git status
+  105  git reset
+  106  git status
+  107  git add .
+  108  git commit -m "Added text_ignore.txt to .gitignore"
+  109  touch main_test.txt
+  110  git add .
+  111  git commit -m "Created main_test.txt"
+  112  git checkout -b develop
+  113  touch develop_test.txt
+  114  git add .
+  115  git commit -m "Created develop_test.txt in develop branch"
+  116  nano develop_test.txt
+  117  git status
+  118  git add .
+  119  git commit -m "Updated develop_test.txt in develop branch"
+  120  git checkout main
+  121  git merge develop
+  122  git log
+  123  history > command_list.csv

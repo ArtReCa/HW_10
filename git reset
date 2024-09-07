@@ -1,0 +1,29 @@
+[33mcommit 02c5e6345064252532b4d49c187a0f22b848cf46[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Artem Revin <revinidze@gmail.com>
+Date:   Sat Sep 7 13:58:27 2024 +0200
+
+    Updated develop_test.txt in develop branch
+
+[33mcommit ce05feb6c543c14465ca5e71d9eb964468971aaf[m
+Author: Artem Revin <revinidze@gmail.com>
+Date:   Sat Sep 7 13:48:19 2024 +0200
+
+    Created develop_test.txt in develop branch
+
+[33mcommit cd8dc4659554cb0c4d631e20e2be0270179c3631[m
+Author: Artem Revin <revinidze@gmail.com>
+Date:   Sat Sep 7 13:47:25 2024 +0200
+
+    Created main_test.txt
+
+[33mcommit 0018316b3bdf53ffee5e16826566768eb02c13b2[m
+Author: Artem Revin <revinidze@gmail.com>
+Date:   Sat Sep 7 13:46:26 2024 +0200
+
+    Added text_ignore.txt to .gitignore
+
+[33mcommit 3bbc63dcb990044f90e7b571a17822521c6d18b4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Artem Revin <revinidze@gmail.com>
+Date:   Sat Sep 7 13:33:42 2024 +0200
+
+    Initial commit
